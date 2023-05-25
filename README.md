@@ -4,7 +4,7 @@
 1. Download the addon and install them to openFrameworks  
 ofxATK: https://github.com/aaronaanderson/ofxATK  
 ofxLeapmotion2: https://github.com/genekogan/ofxLeapMotion2  
-ofxGui: It is a official addon from OF, just include it in the project generator  
+ofxGui: It is an official addon from OF, just include it in the project generator  
 Please make sure you follow the guide from the addon's github page, especially ofxLeapmotion2:  
 
 IMPORTANT!
