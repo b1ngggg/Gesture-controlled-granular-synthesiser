@@ -31,4 +31,4 @@ inline float skewWindow(float x, float skew=0.5f, float p=0.f) {
 Then comment out the triWindow line in Synth.cpp.  
 Now you are ready to build!  
 If you encounter an error: Thread 1: EXC_BAD_ACCESS  
-Please ignore it, clean the build folder and rerun, it will work if retry a few times.  
+Please ignore it, clean the build folder and rerun, it will work if you retry a few times.  
