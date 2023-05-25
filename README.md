@@ -1,6 +1,7 @@
 # Gesture-controlled-granular-synthesiser
 ## Please make sure you follow all the requirements below
-
+  
+Notice: Without Leapmotion device you cannot access to all features of this project but you can use the slider to control the sound.  
 1. Download the addon and install them to openFrameworks  
 ofxATK: https://github.com/aaronaanderson/ofxATK  
 ofxLeapmotion2: https://github.com/genekogan/ofxLeapMotion2  
