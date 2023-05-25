@@ -1,10 +1,10 @@
 # Gesture-controlled-granular-synthesiser
-## Please make sure you follow all the requirements below
+## Please make sure you follow all the requirements below##
 
 1. Download the addon and install them to openFrameworks  
 ofxATK: https://github.com/aaronaanderson/ofxATK  
 ofxLeapmotion2: https://github.com/genekogan/ofxLeapMotion2  
-##Please make sure you follow the guide from the addon's github page, especially ofxLeapmotion2:  
+Please make sure you follow the guide from the addon's github page, especially ofxLeapmotion2:  
 
 ###IMPORTANT!
 
