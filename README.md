@@ -10,7 +10,9 @@ Please make sure you follow the guide from the addon's github page, especially o
 IMPORTANT!
 
 On OS X, you must have this in the Run Script Build Phase of your Xcode project:  
+  
 cp -f ../../../addons/ofxLeapMotion2/libs/lib/osx/libLeap.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/libLeap.dylib"; install_name_tool -change ./libLeap.dylib @executable_path/libLeap.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME";  
+  
 If you don't have this you'll see an error in the console: dyld: Library not loaded: @loader_path/libLeap.dylib  
 
 2. Open the GCGS project and find skewWindow in Synth.cpp.  
